@@ -1,5 +1,4 @@
 # Anleitungen zum sicheren Umgang mit IT
-Stand: September 2021
 
 ## Verfügbare Anleitungen
 - [Wie man Windows 10 sicher einrichtet](https://lehrerlaempel.github.io/windows10einrichten/)
