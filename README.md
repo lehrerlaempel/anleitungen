@@ -6,5 +6,10 @@
 - [Wie man eine sichere E-Mailverschlüsselung einfach einrichtet](https://lehrerlaempel.github.io/emailverschluesselung/)
 - [Wie man Virtuelle Maschinen einrichtet](https://lehrerlaempel.github.io/vmseinrichten/)
 
+Sämtliche Anleitungen stehen übrigens unter der freien Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de), sind also quasi schöpferisches Gemeingut und dürfen z.B. gerne weitergeteilt und bearbeitet werden. Details dazu [hier](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de).
+
+## In der Planung
+- Verifikation von Installationsdateien unter Windows
+
 ## Wer wir sind
-Hinter diesem Account stecken zwei Technik-Enthusiasten, die ihre Brötchen eigentlich anderweitig verdienen. 2020 haben wir in unserer Freizeit angefangen, einfache Anleitungen für Anwender:innen ohne spezielle IT-Kenntnisse zu formulieren, die einen möglichst sicheren und datensparsamen Umgang mit Laptop und Smartphone sowie das Einrichten sicherer Kommunikationskanäle ermöglichen sollen. Das Internet ist zwar voll von Videos und Texten zu diesen Themen, es fehlte uns aber an praxisnahen, aktuellen und vor allem deutschsprachigen Materialien. Um unsere Notizsammlungen besser zugänglich zu machen, stellen wir diese seit September 2021 hier auf GitHub zur Verfügung. Über Feedback sämtlicher Art im persönlichen Gespräch oder via GitHub sind wir jederzeit dankbar!
+Hinter diesem Account stecken Technik-Enthusiasten, die ihre Brötchen eigentlich anderweitig verdienen. Anfang 2020 haben wir in unserer Corona-Freizeit angefangen, einfache Anleitungen für Anwender:innen ohne spezielle IT-Kenntnisse zu formulieren, die einen möglichst sicheren und datensparsamen Umgang mit Laptop und Smartphone sowie das Einrichten sicherer Kommunikationskanäle ermöglichen sollen. Das Internet ist zwar voller Videos und Texten zu diesen Themen, es fehlte uns aber an praxisnahen, aktuellen und vor allem deutschsprachigen Materialien, die nicht nur einzelne Aspekte beleuchten. Um unsere Notizsammlungen besser zugänglich zu machen, stellen wir diese seit September 2021 hier auf GitHub zur Verfügung. Über Feedback sämtlicher Art im persönlichen Gespräch, per Mail oder via GitHub sind wir jederzeit dankbar!
