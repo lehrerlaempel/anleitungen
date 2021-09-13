@@ -5,6 +5,7 @@
 - [Wie man Android sicher einrichtet](https://lehrerlaempel.github.io/androideinrichten/)
 - [Wie man eine sichere E-Mailverschlüsselung einfach einrichtet](https://lehrerlaempel.github.io/emailverschluesselung/)
 - [Wie man Virtuelle Maschinen einrichtet](https://lehrerlaempel.github.io/vmseinrichten/)
+- [Wie man Python-Skripte starten kann](https://lehrerlaempel.github.io/pythonstarten/)
 
 Sämtliche Anleitungen stehen übrigens unter der freien Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de), sind also quasi schöpferisches Gemeingut und dürfen z.B. gerne weitergeteilt und bearbeitet werden.
 
