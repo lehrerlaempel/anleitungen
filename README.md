@@ -17,5 +17,8 @@ Sämtliche Anleitungen stehen übrigens unter der freien Lizenz [CC BY-SA 4.0](h
 ## Wer wir sind
 Hinter diesem Account stecken Technik-Enthusiasten, die ihre Brötchen eigentlich anderweitig verdienen. Anfang 2020 haben wir in unserer Corona-Freizeit angefangen, einfache Anleitungen für Anwender:innen ohne spezielle IT-Kenntnisse zu formulieren, die einen möglichst sicheren und datensparsamen Umgang mit Laptop und Smartphone sowie das Einrichten sicherer Kommunikationskanäle ermöglichen sollen. Das Internet ist zwar voller Videos und Texten zu diesen Themen, es fehlte uns aber an praxisnahen, aktuellen und vor allem deutschsprachigen Materialien, die nicht nur einzelne Aspekte beleuchten. Um unsere Notizsammlungen besser zugänglich zu machen, stellen wir diese seit September 2021 hier auf GitHub zur Verfügung.
 
+## Andere Projekte von uns auf GitHub
+- [OTPtextCRYPT - Simple vertrauenswürdige Textverschlüsselung](https://lehrerlaempel.github.io/OTPtextCRYPT/)
+
 ## Kontakt
 Über Feedback sämtlicher Art im persönlichen Gespräch, per [E-Mail](mailto:oouqaewb4b@web.de) oder via [GitHub](https://github.com/lehrerlaempel) sind wir jederzeit dankbar!
