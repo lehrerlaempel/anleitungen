@@ -1,19 +1,15 @@
 # Anleitungen zum sicheren Umgang mit IT
-v 2.0 | Stand: Oktober 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+v 3.0 | Stand: Oktober 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 ## Verfügbare Anleitungen
 - [Wie man Windows 10 sicher einrichtet](https://lehrerlaempel.github.io/windows10einrichten/)
 - [Wie man Android sicher einrichtet](https://lehrerlaempel.github.io/androideinrichten/)
 - [Wie man eine sichere E-Mailverschlüsselung einfach einrichtet](https://lehrerlaempel.github.io/emailverschluesselung/)
 - [Wie man Virtuelle Maschinen einrichtet](https://lehrerlaempel.github.io/vmseinrichten/)
+- [# Tutorial: Linux als mobiles Betriebssystem auf einem USB-Stick (Eine Anleitung)](https://lehrerlaempel.github.io/linux2go/)
 - [Wie man Python-Skripte starten kann](https://lehrerlaempel.github.io/pythonstarten/)
 
 Sämtliche Anleitungen stehen übrigens unter der freien Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de), sind also quasi schöpferisches Gemeingut und dürfen z.B. gerne weitergeteilt und bearbeitet werden.
-
-## In der Planung
-- Verifikation von Installationsdateien unter Windows
-- Installation von LineageOS oder GrapheneOS
-- Betriebssystem auf einem USB-Stick installieren/nutzen
 
 ## Wer wir sind
 Hinter diesem Account stecken Technik-Enthusiasten, die ihre Brötchen eigentlich anderweitig verdienen. Anfang 2020 haben wir in unserer Corona-Freizeit angefangen, einfache Anleitungen für Anwender:innen ohne spezielle IT-Kenntnisse zu formulieren, die einen möglichst sicheren und datensparsamen Umgang mit Laptop und Smartphone sowie das Einrichten sicherer Kommunikationskanäle ermöglichen sollen. Das Internet ist zwar voller Videos und Texten zu diesen Themen, es fehlte uns aber an praxisnahen, aktuellen und vor allem deutschsprachigen Materialien, die nicht nur einzelne Aspekte beleuchten. Um unsere Notizsammlungen besser zugänglich zu machen, stellen wir diese seit September 2021 hier auf GitHub zur Verfügung.
@@ -55,3 +51,4 @@ Hinweise:
 Bitte erlauben Sie uns auch noch ein paar Wörter zu den auf dieser Seite gesetzten Links, wie sie von [eRecht24](https://www.e-recht24.de/muster-disclaimer.html) empfohlen werden:
 
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+
