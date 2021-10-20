@@ -6,7 +6,7 @@ v 3.0 | Stand: Oktober 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org
 - [Wie man Android sicher einrichtet](https://lehrerlaempel.github.io/androideinrichten/)
 - [Wie man eine sichere E-Mailverschlüsselung einfach einrichtet](https://lehrerlaempel.github.io/emailverschluesselung/)
 - [Wie man Virtuelle Maschinen einrichtet](https://lehrerlaempel.github.io/vmseinrichten/)
-- [# Tutorial: Linux als mobiles Betriebssystem auf einem USB-Stick (Eine Anleitung)](https://lehrerlaempel.github.io/linux2go/)
+- [Linux als mobiles Betriebssystem auf einem USB-Stick](https://lehrerlaempel.github.io/linux2go/)
 - [Wie man Python-Skripte starten kann](https://lehrerlaempel.github.io/pythonstarten/)
 
 Sämtliche Anleitungen stehen übrigens unter der freien Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de), sind also quasi schöpferisches Gemeingut und dürfen z.B. gerne weitergeteilt und bearbeitet werden.
