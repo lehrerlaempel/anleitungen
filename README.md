@@ -1,5 +1,5 @@
 # Anleitungen zum sicheren Umgang mit IT
-v 3.0 | Stand: Oktober 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+v 3.1 | Stand: November 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 ## Verfügbare Anleitungen
 - [Wie man Windows 10 sicher einrichtet](https://lehrerlaempel.github.io/windows10einrichten/)
@@ -18,11 +18,19 @@ Hinter diesem Account stecken Technik-Enthusiasten, die ihre Brötchen eigentlic
 - [OTPtextCRYPT - Simple vertrauenswürdige Textverschlüsselung](https://lehrerlaempel.github.io/OTPtextCRYPT/)
 
 ## Anleitungen von anderen
+Wie bereits erwähnt, ist das Internet voller Anleitungen zu ähnlichen Thematiken. Hier ein paar willkürlich ausgewählte Dokumente aus der langen Liste unserer Favouriten:
+
 Das PDF [All Computers Are Beschlagnahmt](https://beschlagnahmt.org/assets/download/acab.pdf) enthält viele wertvolle Hinweise und Anregungen für den sicheren Betrieb von Laptop und Smartphone.
 
-Auf der Seite [Surveillance Self-Defense](https://ssd.eff.org/) finden sich sehr ausführliche gut verständliche englischsprachige Anleitungen zu sinnvollen Maßnahmen für sichere Kommunikation udn IT sowie umfangreiche Artikel zu den zu Grunde liegenden Problemfeldern. Eine ähnliche Seite in deutscher Sprache ist [die Artikelsammlung "Digitale Selbstverteidung"](https://digitalcourage.de/digitale-selbstverteidigung) des Digitalcourage e.V. aus Bielefeld.
+Auf der Seite [Surveillance Self-Defense](https://ssd.eff.org/) finden sich sehr ausführliche gut verständliche englischsprachige Anleitungen zu sinnvollen Maßnahmen für sichere Kommunikation und IT sowie umfangreiche Artikel zu den zu Grunde liegenden Problemfeldern. Eine ähnliche Seite in deutscher Sprache ist [die Artikelsammlung "Digitale Selbstverteidung"](https://digitalcourage.de/digitale-selbstverteidigung) des Digitalcourage e.V. aus Bielefeld.
 
 Wer Anregungen für einen datensparsamen und sicheren Betrieb von Laptop und Smartphone sucht, sollte sich auch unbedingt [die Empfehlungsecke von Mike Kuketz](https://www.kuketz-blog.de/empfehlungsecke/) anschauen. Hier ist vermutlich für fast alle Leser:innen der passende Tipp mit dabei.
+
+Für alle, die lieber Videos schauen, hier drei Empfehlungen:
+
+- [Linus Neumann - Wie Hacker hacken und möglichst nicht mich](https://www.youtube.com/watch?v=fOsKt1HXQZU)
+- [Markus Beckedahl - Einführung in digitale Selbstverteidigung](https://www.youtube.com/watch?v=KNUrOPoaq20)
+- [Marius Melzer - Digitale Selbstverteidigung](https://www.youtube.com/watch?v=kwMpKS0b-KY)
 
 ## Kontakt
 Über Feedback sämtlicher Art im persönlichen Gespräch, per [E-Mail](mailto:oouqaewb4b@web.de) oder via [GitHub](https://github.com/lehrerlaempel) sind wir jederzeit dankbar!
@@ -47,8 +55,11 @@ Hinweise:
 
 *Dies war eine allgemeinverständliche Zusammenfassung der [Lizenz](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de), die diese nicht ersetzt.*
 
-## Externe Links
-Bitte erlauben Sie uns auch noch ein paar Wörter zu den auf dieser Seite gesetzten Links, wie sie von [eRecht24](https://www.e-recht24.de/muster-disclaimer.html) empfohlen werden:
+## Fehlerteufel
+Dieser Text wurde von [lehrerlaempel](https://github.com/lehrerlaempel) nach bestem Wissen und Gewissen erstellt. Wir haben die feste Absicht, diese im Laufe der Zeit an Änderungen der erwähnten Software anzupassen und um weitere Aspekte zu ergänzen. Den Stand der Ihnen vorliegenden Version finden Sie ganz am Anfang der Seite.
 
-Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+Ihnen sind Fehler aufgefallen? Sie haben Verbesserungs- oder Änderungswünsche? Dann nehmen Sie gerne [Kontakt](https://lehrerlaempel.github.io/anleitungen/) mit uns auf. Wir sind tatsächlich sehr an Ihrer Rückmeldung interessiert!
 
+Im Rahmen unserer Möglichkeiten haben wir auch versucht sicherzustellen, dass sowohl diese Seite selbst, als auch die von uns verlinkten Seiten sowohl legaler als auch legitimer Natur sind. Sollten uns Fehler unterlaufen sein oder wir änderungen verlinkter Seiten verpasst haben, geben Sie und gerne ein Zeichen, damit wir das zeitnah beheben können.
+
+Wir übernehmen explizit keinerlei Haftung für die hier getroffenen Aussagen oder möglicherweise daraus entstandene Datenverluste oder sonstigen Schäden. Wir haben diese Texte nach bestem Wissen und Gewissen verfasst, sind aber wie alle Menschen fehlbar. Verstehen Sie diese Anleitungen also bitte als aufrichtig wohlmeindende Ratschläge auf Augenhöhe, jedoch ohne jede Gewähr.
