@@ -1,11 +1,12 @@
 # Anleitungen zum sicheren Umgang mit IT
-v 3.1 | Stand: November 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+v 3.2 | Stand: November 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 ## Verfügbare Anleitungen
 - [Wie man Windows 10 sicher einrichtet](https://lehrerlaempel.github.io/windows10einrichten/)
 - [Wie man Android sicher einrichtet](https://lehrerlaempel.github.io/androideinrichten/)
 - [Wie man eine sichere E-Mailverschlüsselung einfach einrichtet](https://lehrerlaempel.github.io/emailverschluesselung/)
 - [Wie man Virtuelle Maschinen einrichtet](https://lehrerlaempel.github.io/vmseinrichten/)
+- [Android in einer virtuelle Maschine](https://lehrerlaempel.github.io/android_vm/)
 - [Linux als mobiles Betriebssystem auf einem USB-Stick](https://lehrerlaempel.github.io/linux2go/)
 - [Wie man Python-Skripte starten kann](https://lehrerlaempel.github.io/pythonstarten/)
 
